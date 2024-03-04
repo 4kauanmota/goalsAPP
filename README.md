@@ -29,12 +29,12 @@
 + [EXPO GO](https://expo.dev/client) or [ANDROID STUDIO](https://developer.android.com/studio)
 
 ### Codes
-+ `git clone https://github.com/4kauanmota/goalsAPP .`
++ `git clone https://github.com/4kauanmota/goals-APP .`
 + `npm install` or `npm i`
 + `npm run start` or `npm start`
 
 #### Cloning project
-First you will need to open the terminal in the folder where you want to clone this project, and then, you paste this code `git clone https://github.com/4kauanmota/goalsAPP .`
+First you will need to open the terminal in the folder where you want to clone this project, and then, you paste this code `git clone https://github.com/4kauanmota/goals-APP .`
 
 #### Installing dependencies
 In the project folder you should enter `npm install` or `npm i` to install project depedencies
